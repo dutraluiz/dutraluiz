@@ -1,8 +1,7 @@
 <h2>Hi, I'm Luiz ⚒️⛰️</h2>
 <div class="row">
   <div class="column">
-  <p><em>Geologist at <a href="http://www.ufop.br"> Federal University of Ouro Preto</a>
-  <p><em>Researcher at <a href="https://www5.usp.br/"> University of São Paulo</a></div>
+  <p><em>Professor at <a href="http://www.ufop.br"> Federal University of Ouro Preto</a>
   <div class="column"><img src="https://i.imgur.com/QQWsZLn.gif" width="500">
   </div>
 </div>
